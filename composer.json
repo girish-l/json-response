@@ -6,7 +6,7 @@
     "type": "library",
     "authors": [{
         "name": "gamich",
-        "email": "g.test.com"
+        "email": "girish.l@hotmail.com"
     }],
     "require": {
         "php": ">=5.3.0"
