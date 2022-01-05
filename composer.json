@@ -1,5 +1,5 @@
 {
-    "name": "gl/json-response",
+    "name": "gamich/json-response",
     "description": "A simple class that returns a properly formatted json response with http status",
     "keywords": ["JSON", "Response", "API", "PHP"],
     "license": "MIT",
