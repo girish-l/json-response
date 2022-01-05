@@ -1,6 +1,6 @@
 {
     "name": "gamich/json-response",
-    "description": "A simple class that returns a properly formatted json response with http status",
+    "description": "A simple class that returns a properly formatted json response with http status - test",
     "keywords": ["JSON", "Response", "API", "PHP"],
     "license": "MIT",
     "type": "library",
